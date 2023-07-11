@@ -236,7 +236,7 @@ bot.on("callback_query", (callbackQuery) => {
                     ],
                     [
                         {
-                            text: "🛍️ Инструкция по покупке 🛍️", url: "https://t.me/honeyrobux/2"
+                            text: "🛍️ Инструкция по покупке 🛍️", url: "https://t.me/honeyrobux/25"
                         }
                     ],
                     [
